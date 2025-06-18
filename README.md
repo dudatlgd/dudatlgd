@@ -30,7 +30,7 @@ Estou desposta a novos desafios e acredito que aprender é um processo constante
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-Siga--me-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E1306C"
+            src="https://img.shields.io/badge/Instagram-Siga--me-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=id44b8"
         />
     </a>
 </p>
