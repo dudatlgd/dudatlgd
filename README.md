@@ -7,10 +7,11 @@ Atualmente, curso Sistemas de Informação no Centro Universitário de Patos de 
 Gosto bastante de tecnologia e estou constantemente em busca de aprimorar meus conhecimentos nas linguagens e ferramentas disponíveis.
 Tenho um interesse especial pela área de Experiência do Usuário (UX), o que me levou a realizar cursos de design gráfico, como Adobe Illustrator CS6, além de capacitações em edição de imagem e vídeo.
 
-Objetivo profissional:
+
+💼 Objetivo profissional:
 Busco oportunidades para aplicar meus conhecimentos em projetos reais, contribuindo de forma significativa com equipes multidisciplinares no desenvolvimento de soluções tecnológicas inovadoras e centradas no usuário.
 
-💼 Competências interpessoais (soft skills):
+💻 Soft skills:
 
 Boa comunicação e escuta ativa
 
@@ -30,14 +31,14 @@ Estou desposta a novos desafios e acredito que aprender é um processo constante
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-Siga--me-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=id44b8"
+            src="https://img.shields.io/badge/Instagram-Siga--me-1414b8?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1414b8"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 📲 Linguagens e Tecnologias
 <p >
 
 <p align="left">
@@ -56,4 +57,4 @@ Estou desposta a novos desafios e acredito que aprender é um processo constante
 
 </p>
 
-### 📊 Estatísticas
+###
