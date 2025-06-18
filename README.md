@@ -1,8 +1,30 @@
 # Maria Eduarda
 
 **`Desenvolvedora UX`**
+Me chamo Maria Eduarda, tenho 19 anos e sou natural de Patos de Minas – MG.
+Atualmente, curso Sistemas de Informação no Centro Universitário de Patos de Minas – UNIPAM.
 
-Me chamo Maria Eduarda, tenho 19 anos e sou natural de Patos de Minas-MG.Atualmente, estou cursando Sistemas de Informações no Centro Universitário-Unipam. Sou apaixonada por tecnologia e busco sempre me aprofundar nas linguagens solicitadas, gosto especialmente da parte de UX, devido a isso ja fiz alguns cursos de desing/photoshop (Illustrator cs6).
+Gosto bastante de tecnologia e estou constantemente em busca de aprimorar meus conhecimentos nas linguagens e ferramentas disponíveis.
+Tenho um interesse especial pela área de Experiência do Usuário (UX), o que me levou a realizar cursos de design gráfico, como Adobe Illustrator CS6, além de capacitações em edição de imagem e vídeo.
+
+Objetivo profissional:
+Busco oportunidades para aplicar meus conhecimentos em projetos reais, contribuindo de forma significativa com equipes multidisciplinares no desenvolvimento de soluções tecnológicas inovadoras e centradas no usuário.
+
+💼 Competências interpessoais (soft skills):
+
+Boa comunicação e escuta ativa
+
+Organização e comprometimento
+
+Proatividade e facilidade de adaptação
+
+Trabalho em equipe e cooperação
+
+Liderança e capacidade de coordenar grupos
+
+Interesse contínuo por aprendizagem e evolução profissional
+
+Estou desposta a novos desafios e acredito que aprender é um processo constante....
 <p align="left">
     <a href="https://www.instagram.com/maria_eduarda_f_r/" target="_blank">
         <img 
